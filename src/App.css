@@ -1,0 +1,93 @@
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+section {
+  padding: 100px 0;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.mt-5 {
+  margin-top: 3rem;
+}
+
+.mb-5 {
+  margin-bottom: 3rem;
+}
+
+.mb-4 {
+  margin-bottom: 1.5rem;
+}
+
+nav {
+  margin-bottom: 20px;
+}
+
+
+
+.skill {
+  background: #f9f9f9;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.skill h4 {
+  margin-bottom: 10px;
+}
+
+.progress-bar {
+  transition: width 0.5s ease-in-out;
+}
+
+
+/* Contact */
+form {
+  background: #f9f9f9;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+form .form-control {
+  border-radius: 5px;
+}
+
+button {
+  border-radius: 5px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.fa-2x {
+  margin: 0 15px;
+  color: #333;
+}
+
+.fa-2x:hover {
+  color: #007bff;
+  transition: color 0.3s ease;
+}
+
+footer {
+  text-align: center;
+  padding: 1em;
+  background-color: #f1f1f1;
+  position: relative;
+  width: 100%;
+  bottom: 0;
+}
+
